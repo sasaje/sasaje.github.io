@@ -33,4 +33,4 @@ public class Hello {
 
 I also learned about GitHub 
 
-![Image](https://media.giphy.com/media/c1c1M1a2yZDd9aVReu/giphy.gif)
+![Image of dog](https://media.giphy.com/media/kreQ1pqlSzftm/giphy.gif)
