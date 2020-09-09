@@ -1,5 +1,7 @@
 # The website of Sara
 
+![Image](https://pixabay.com/images/id-158414/)
+
 ## About
 My name is Sara and I'm a student at _Computer Science_.
 I'm looking forward to get started with **programming**. 
@@ -26,5 +28,4 @@ public class Hello {
 }
 `
 
-**###I also learned about** 
-![Image](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+I also learned about GitHub 
