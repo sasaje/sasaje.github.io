@@ -19,7 +19,7 @@ Previously I have been programming in:
 
 ## What have I learned so far?
 
-I learned how to write som Java code in IntelliJ. 
+I learned how to write some Java code in IntelliJ. 
 
 This is actually my first Java program:
 
