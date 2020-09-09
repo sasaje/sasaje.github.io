@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600;700&display=swap');
 
 html{
-    background-color: lightgrey;
+    background-color: lightgrey !important;
 }
 h1, h2, h3, h4, h5, h6{
     color: cadetblue;
