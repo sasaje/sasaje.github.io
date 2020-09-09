@@ -2,6 +2,7 @@
 
 ## About
 My name is Sara and I'm a student at _Computer Science_.
+
 I'm looking forward to get started with **programming**. 
 
 ![Minions](https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif)
@@ -21,14 +22,15 @@ This is actually my first Java program:
 
 ````
 public class Hello {
-    // psvm - public static void main(String[] args){}
+    // psvm - public static void main(String[] args){
+    
     public static void main(String[] args) {
+    
         // sout - System.out.println("text");        
+   
         System.out.println("Hello World!");
     }    
 }
 ````
 
 I also learned about GitHub 
-
-![Image of dog](https://media.giphy.com/media/c1c1M1a2yZDd9aVReu/giphy.gif)
