@@ -82,3 +82,13 @@ code {
     font-size: 15px;
     font-weight: 200;
 }
+
+footer a {
+    font-size: 11px;
+    color: black;
+    text-decoration: underline;
+}
+footer a:hover {
+    color: black;
+    font-weight: 400;
+}
