@@ -14,10 +14,24 @@ header h1, header h1 a{
     font-weight: 400;    
     font-size: 30px;
     padding-top: 10px;
+    display: block;
+    text-align: center;
 }
+header a:hover {
+    color: black;
+    text-decoration: underline;
+    background: none !important;
+    text-align: center;
+    display: block;
+}
+
 header p {
     display: none;
 }
+header p.view {
+    display: block !important;
+}
+
 p.view a {
     font-size: 15px !important;
     color: white;
@@ -28,7 +42,6 @@ p.view a {
     font-weight: 100;
     display: block;
     text-align: center;
-    display: block !important;
 }
 
 h1, h2, h3, h4, h5, h6{
