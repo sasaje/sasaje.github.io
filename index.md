@@ -34,3 +34,9 @@ public class Hello {
 ````
 
 I also learned about GitHub 
+
+
+![Image of balance dog](https://media.giphy.com/media/c1c1M1a2yZDd9aVReu/giphy.gif)
+
+_I will learn to balance programming!_
+
