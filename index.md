@@ -20,6 +20,7 @@ Previously I have been programming in:
 ## What have I learned so far?
 
 I learned how to write som Java code in IntelliJ. 
+
 This is actually my first Java program:
 
 ````
@@ -34,9 +35,6 @@ public class Hello {
     }    
 }
 ````
-
-I also learned about GitHub 
-
 
 ![Image of balance dog](https://media.giphy.com/media/c1c1M1a2yZDd9aVReu/giphy.gif)
 
